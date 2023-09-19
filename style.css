@@ -1,0 +1,266 @@
+.body {
+    background-color: rgb(29, 14, 14);
+}
+
+.pe {
+    position: fixed; top: 220px; left: 630px;
+    color: #f12837;
+    font-style: oblique;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.blinks {
+    color: #ffffff;
+    position: fixed; top: 65px; left: 200px;
+    background-color: rgb(29, 14, 14);
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: #ffffff;
+    border-style: solid;
+    cursor: pointer;
+}
+
+.patreon {
+    color: rgb(224, 116, 15);
+    position: fixed; top: 220px; left: 710px;
+    background-color: rgb(29, 14, 14);
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: rgb(224, 116, 15);
+    border-style: solid;
+    cursor: pointer;
+}
+
+.twitter {
+    color: rgb(255, 255, 255);
+    position: fixed; top: 220px; left: 580px;
+    background-color: rgb(29, 14, 14);
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    cursor: pointer;
+}
+
+.tumblr {
+    color: rgb(104, 82, 147);
+    position: fixed; top: 220px; left: 840px;
+    background-color: rgb(29, 14, 14);
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: rgb(104, 82, 147);
+    border-style: solid;
+    cursor: pointer;
+}
+
+.bcharacters {
+    color: #ffffff;
+    position: fixed; top: 65px; left: 350px;
+    background-color: rgb(29, 14, 14);
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: #ffffff;
+    border-style: solid;
+    cursor: pointer;
+}
+
+.bseason1 {
+    color: #ffffff;
+    position: fixed; top: 65px; left: 500px;
+    background-color: rgb(29, 14, 14);
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: #ffffff;
+    border-style: solid;
+    cursor: pointer;
+}
+
+.bseason2 {
+    color: #ffffff;
+    position: fixed; top: 65px; left: 650px;
+    background-color: rgb(29, 14, 14);
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: #ffffff;
+    border-style: solid;
+    cursor: pointer;
+}
+
+.img {
+    height: 120px;
+    position: fixed; left: 30px; top: 30px;
+    cursor: pointer;
+}
+
+.vpilot {
+    position: fixed; top: 300px; left: 600px;
+    height: 180px;
+}
+
+.vs1e1 {
+    position: fixed; top: 250px; left: 50px;
+    height: 180px;
+}
+
+.vs1e2 {
+    position: fixed; top: 250px; left: 420px;
+    height: 180px;
+}
+
+.vs1e3 {
+    position: fixed; top: 250px; left: 790px;
+    height: 180px;
+}
+
+.vs1e4 {
+    position: fixed; top: 250px; left: 1160px;
+    height: 180px;
+}
+
+.vs1e5 {
+    position: fixed; top: 500px; left: 50px;
+    height: 180px;
+}
+
+.vs1e6 {
+    position: fixed; top: 500px; left: 420px;
+    height: 180px;
+}
+
+.vs1e7 {
+    position: fixed; top: 500px; left: 790px;
+    height: 180px;
+}
+
+.vs1e8 {
+    position: fixed; top: 500px; left: 1160px;
+    height: 180px;
+}
+
+.vs2e1 {
+    position: fixed; top: 250px; left: 50px;
+    height: 180px;
+}
+
+.vs2e2 {
+    position: fixed; top: 250px; left: 420px;
+    height: 180px;
+}
+
+.vs2e3 {
+    position: fixed; top: 250px; left: 790px;
+    height: 180px;
+}
+
+.vs2e4 {
+    position: fixed; top: 250px; left: 1160px;
+    height: 180px;
+}
+
+.vs2e5 {
+    position: fixed; top: 500px; left: 420px;
+    height: 180px;
+}
+
+.vs2e6 {
+    position: fixed; top: 500px; left: 790px;
+    height: 180px;
+}
+
+.bpc {
+    color: #f12837;
+    position: fixed; top: 220px; left: 680px;
+    background-color: rgb(29, 14, 14);
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: #f12837;
+    border-style: solid;
+}
+
+.blitzo {
+    color: #f12837;
+    position: fixed; top: 500px; left: 420px;
+    background-color: rgb(29, 14, 14);
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: #f12837;
+    border-style: solid;
+}
+
+.imgblitzo {
+    position: fixed; top: 320px; left: 390px;
+    height: 150px;
+    width: 150px;
+}
+
+.loona {
+    color: #f12837;
+    position: fixed; top: 500px; left: 620px;
+    background-color: rgb(29, 14, 14);
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: #f12837;
+    border-style: solid;
+}
+
+.imgloona {
+    position: fixed; top: 320px; left: 590px;
+    height: 150px;
+    width: 150px;
+}
+
+.moxxie {
+    color: #f12837;
+    position: fixed; top: 500px; left: 820px;
+    background-color: rgb(29, 14, 14);
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: #f12837;
+    border-style: solid;
+}
+
+.imgmoxxie {
+    position: fixed; top: 320px; left: 790px;
+    height: 150px;
+    width: 150px;
+}
+
+.millie {
+    color: #f12837;
+    position: fixed; top: 500px; left: 1020px;
+    background-color: rgb(29, 14, 14);
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: #f12837;
+    border-style: solid;
+}
+
+.imgmillie {
+    position: fixed; top: 320px; left: 990px;
+    height: 150px;
+    width: 150px;
+}
